@@ -8,7 +8,7 @@ The chatbot uses the **Retrieval-Augmented Generation (RAG)** architecture to an
 
 Instead of relying only on the LLM's pre-trained knowledge, the system retrieves relevant information from the uploaded document and provides context-aware responses.
 
----
+--
 
 ## Project Goal
 
