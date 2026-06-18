@@ -35,3 +35,4 @@ print(len(vector))
 
 print("\nFirst 10 Values:")
 print(vector[:10])
+
